@@ -1,0 +1,30 @@
+
+.btn:hover{
+    background: #767677;
+    color: white;
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  
+  .btn{
+    height: 20px;
+    margin: auto;
+  }
+  
+  .tbl{
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  
+  .tbl-dt{
+    
+    padding: 10px;
+    justify-content: space-between;
+    font-size: 19px;
+  }
+  
+  .tbl-bdy{
+    padding: 10px;
+    justify-content: space-between;
+    border: 1px solid black;
+  }
